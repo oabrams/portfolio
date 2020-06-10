@@ -312,6 +312,18 @@ body {
   padding-bottom: 5px;
 }
 
+#homepage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 #umwireframe{
   width: 40%;
   height: auto;
