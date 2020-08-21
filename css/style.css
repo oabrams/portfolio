@@ -216,8 +216,8 @@ body {
 }
 
 #image1, #image2, #image3, #image4, #image5{
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   padding: 10px;
   display: block;
   margin-left: auto;
