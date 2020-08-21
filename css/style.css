@@ -101,6 +101,9 @@ ol{
 }
 
 
+header>ul{
+  padding-right: 0px;
+}
 
 ul{
   font-family: 'Lato', sans-serif;
