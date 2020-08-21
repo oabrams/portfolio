@@ -536,6 +536,11 @@ body {
 #image2, #image4{
   margin-left:0px;
 }
+
+#image1, #image2, #image3, #image4, #image5{
+width: 400px;
+}
+    
 .holder{
   display: grid;
   justify-content: center;
